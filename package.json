@@ -13,7 +13,10 @@
   },
   "dependencies": {
     "hexo": "^5.0.0",
+<<<<<<< HEAD
     "hexo-deployer-git": "^3.0.0",
+=======
+>>>>>>> b6a92837e22e2aa6cb74438bbae74707b0e4ea35
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-index": "^2.0.0",
@@ -24,4 +27,8 @@
     "hexo-server": "^2.0.0",
     "hexo-theme-landscape": "^0.0.3"
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> b6a92837e22e2aa6cb74438bbae74707b0e4ea35
